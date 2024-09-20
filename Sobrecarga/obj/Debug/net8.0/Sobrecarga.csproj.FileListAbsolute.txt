@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\Sobrecarga\bin\Debug\net8.0\Sobrecarga.exe
+C:\bravoauto\Variables\Sobrecarga\bin\Debug\net8.0\Sobrecarga.deps.json
+C:\bravoauto\Variables\Sobrecarga\bin\Debug\net8.0\Sobrecarga.runtimeconfig.json
+C:\bravoauto\Variables\Sobrecarga\bin\Debug\net8.0\Sobrecarga.dll
+C:\bravoauto\Variables\Sobrecarga\bin\Debug\net8.0\Sobrecarga.pdb
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\Sobrecarga.AssemblyInfo.cs
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\Sobrecarga.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\Sobrecarga.dll
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\refint\Sobrecarga.dll
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\Sobrecarga.pdb
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\Sobrecarga.genruntimeconfig.cache
+C:\bravoauto\Variables\Sobrecarga\obj\Debug\net8.0\ref\Sobrecarga.dll
