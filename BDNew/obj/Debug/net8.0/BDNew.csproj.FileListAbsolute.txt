@@ -1,0 +1,5 @@
+C:\bravoauto\Variables\BDNew\obj\Debug\net8.0\BDNew.csproj.AssemblyReference.cache
+C:\bravoauto\Variables\BDNew\obj\Debug\net8.0\BDNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\BDNew\obj\Debug\net8.0\BDNew.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\BDNew\obj\Debug\net8.0\BDNew.AssemblyInfo.cs
+C:\bravoauto\Variables\BDNew\obj\Debug\net8.0\BDNew.csproj.CoreCompileInputs.cache
