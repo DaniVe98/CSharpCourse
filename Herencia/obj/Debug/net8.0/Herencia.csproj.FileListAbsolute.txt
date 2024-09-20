@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\Herencia.AssemblyInfo.cs
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\Herencia.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\Herencia\bin\Debug\net8.0\Herencia.exe
+C:\bravoauto\Variables\Herencia\bin\Debug\net8.0\Herencia.deps.json
+C:\bravoauto\Variables\Herencia\bin\Debug\net8.0\Herencia.runtimeconfig.json
+C:\bravoauto\Variables\Herencia\bin\Debug\net8.0\Herencia.dll
+C:\bravoauto\Variables\Herencia\bin\Debug\net8.0\Herencia.pdb
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\Herencia.dll
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\refint\Herencia.dll
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\Herencia.pdb
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\Herencia.genruntimeconfig.cache
+C:\bravoauto\Variables\Herencia\obj\Debug\net8.0\ref\Herencia.dll
