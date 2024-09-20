@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.exe
+C:\bravoauto\Variables\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.deps.json
+C:\bravoauto\Variables\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.runtimeconfig.json
+C:\bravoauto\Variables\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.dll
+C:\bravoauto\Variables\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.pdb
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.AssemblyInfo.cs
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.dll
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\refint\TiposAnonimos.dll
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.pdb
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.genruntimeconfig.cache
+C:\bravoauto\Variables\TiposAnonimos\obj\Debug\net8.0\ref\TiposAnonimos.dll
