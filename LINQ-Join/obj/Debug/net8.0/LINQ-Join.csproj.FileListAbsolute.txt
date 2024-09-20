@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\LINQ-Join\bin\Debug\net8.0\LINQ-Join.exe
+C:\bravoauto\Variables\LINQ-Join\bin\Debug\net8.0\LINQ-Join.deps.json
+C:\bravoauto\Variables\LINQ-Join\bin\Debug\net8.0\LINQ-Join.runtimeconfig.json
+C:\bravoauto\Variables\LINQ-Join\bin\Debug\net8.0\LINQ-Join.dll
+C:\bravoauto\Variables\LINQ-Join\bin\Debug\net8.0\LINQ-Join.pdb
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\LINQ-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\LINQ-Join.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\LINQ-Join.AssemblyInfo.cs
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\LINQ-Join.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\LINQ-Join.dll
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\refint\LINQ-Join.dll
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\LINQ-Join.pdb
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\LINQ-Join.genruntimeconfig.cache
+C:\bravoauto\Variables\LINQ-Join\obj\Debug\net8.0\ref\LINQ-Join.dll
