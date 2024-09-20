@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\bin\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.exe
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\bin\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.deps.json
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\bin\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.runtimeconfig.json
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\bin\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.dll
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\bin\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.pdb
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.AssemblyInfo.cs
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.dll
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\refint\FunctionalProgramming5-Delegado Gen. Func.dll
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.pdb
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\FunctionalProgramming5-Delegado Gen. Func.genruntimeconfig.cache
+C:\bravoauto\Variables\FunctionalProgramming5-Delegado Gen. Func\obj\Debug\net8.0\ref\FunctionalProgramming5-Delegado Gen. Func.dll
