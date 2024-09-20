@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\Lists\bin\Debug\net8.0\Lists.exe
+C:\bravoauto\Variables\Lists\bin\Debug\net8.0\Lists.deps.json
+C:\bravoauto\Variables\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+C:\bravoauto\Variables\Lists\bin\Debug\net8.0\Lists.dll
+C:\bravoauto\Variables\Lists\bin\Debug\net8.0\Lists.pdb
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\Lists.dll
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\refint\Lists.dll
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\Lists.pdb
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+C:\bravoauto\Variables\Lists\obj\Debug\net8.0\ref\Lists.dll
