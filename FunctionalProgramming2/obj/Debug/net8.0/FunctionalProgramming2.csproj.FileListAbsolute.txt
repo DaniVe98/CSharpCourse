@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\FunctionalProgramming2\bin\Debug\net8.0\FunctionalProgramming2.exe
+C:\bravoauto\Variables\FunctionalProgramming2\bin\Debug\net8.0\FunctionalProgramming2.deps.json
+C:\bravoauto\Variables\FunctionalProgramming2\bin\Debug\net8.0\FunctionalProgramming2.runtimeconfig.json
+C:\bravoauto\Variables\FunctionalProgramming2\bin\Debug\net8.0\FunctionalProgramming2.dll
+C:\bravoauto\Variables\FunctionalProgramming2\bin\Debug\net8.0\FunctionalProgramming2.pdb
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\FunctionalProgramming2.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\FunctionalProgramming2.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\FunctionalProgramming2.AssemblyInfo.cs
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\FunctionalProgramming2.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\FunctionalProgramming2.dll
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\refint\FunctionalProgramming2.dll
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\FunctionalProgramming2.pdb
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\FunctionalProgramming2.genruntimeconfig.cache
+C:\bravoauto\Variables\FunctionalProgramming2\obj\Debug\net8.0\ref\FunctionalProgramming2.dll
