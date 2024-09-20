@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\SentenciaIf-ElseIf\bin\Debug\net8.0\SentenciaIf-ElseIf.exe
+C:\bravoauto\Variables\SentenciaIf-ElseIf\bin\Debug\net8.0\SentenciaIf-ElseIf.deps.json
+C:\bravoauto\Variables\SentenciaIf-ElseIf\bin\Debug\net8.0\SentenciaIf-ElseIf.runtimeconfig.json
+C:\bravoauto\Variables\SentenciaIf-ElseIf\bin\Debug\net8.0\SentenciaIf-ElseIf.dll
+C:\bravoauto\Variables\SentenciaIf-ElseIf\bin\Debug\net8.0\SentenciaIf-ElseIf.pdb
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\SentenciaIf-ElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\SentenciaIf-ElseIf.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\SentenciaIf-ElseIf.AssemblyInfo.cs
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\SentenciaIf-ElseIf.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\SentenciaIf-ElseIf.dll
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\refint\SentenciaIf-ElseIf.dll
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\SentenciaIf-ElseIf.pdb
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\SentenciaIf-ElseIf.genruntimeconfig.cache
+C:\bravoauto\Variables\SentenciaIf-ElseIf\obj\Debug\net8.0\ref\SentenciaIf-ElseIf.dll
