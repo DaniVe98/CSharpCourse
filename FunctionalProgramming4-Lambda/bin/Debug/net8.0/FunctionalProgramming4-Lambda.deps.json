@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FunctionalProgramming4-Lambda/1.0.0": {
+        "runtime": {
+          "FunctionalProgramming4-Lambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunctionalProgramming4-Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

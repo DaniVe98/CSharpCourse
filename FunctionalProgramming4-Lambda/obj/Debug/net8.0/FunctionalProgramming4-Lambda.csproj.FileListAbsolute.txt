@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\bin\Debug\net8.0\FunctionalProgramming4-Lambda.exe
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\bin\Debug\net8.0\FunctionalProgramming4-Lambda.deps.json
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\bin\Debug\net8.0\FunctionalProgramming4-Lambda.runtimeconfig.json
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\bin\Debug\net8.0\FunctionalProgramming4-Lambda.dll
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\bin\Debug\net8.0\FunctionalProgramming4-Lambda.pdb
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\FunctionalProgramming4-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\FunctionalProgramming4-Lambda.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\FunctionalProgramming4-Lambda.AssemblyInfo.cs
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\FunctionalProgramming4-Lambda.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\FunctionalProgramming4-Lambda.dll
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\refint\FunctionalProgramming4-Lambda.dll
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\FunctionalProgramming4-Lambda.pdb
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\FunctionalProgramming4-Lambda.genruntimeconfig.cache
+C:\bravoauto\Variables\FunctionalProgramming4-Lambda\obj\Debug\net8.0\ref\FunctionalProgramming4-Lambda.dll
