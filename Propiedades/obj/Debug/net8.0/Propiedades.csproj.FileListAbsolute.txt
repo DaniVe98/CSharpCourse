@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\Propiedades\bin\Debug\net8.0\Propiedades.exe
+C:\bravoauto\Variables\Propiedades\bin\Debug\net8.0\Propiedades.deps.json
+C:\bravoauto\Variables\Propiedades\bin\Debug\net8.0\Propiedades.runtimeconfig.json
+C:\bravoauto\Variables\Propiedades\bin\Debug\net8.0\Propiedades.dll
+C:\bravoauto\Variables\Propiedades\bin\Debug\net8.0\Propiedades.pdb
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\Propiedades.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\Propiedades.AssemblyInfo.cs
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\Propiedades.dll
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\refint\Propiedades.dll
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\Propiedades.pdb
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\Propiedades.genruntimeconfig.cache
+C:\bravoauto\Variables\Propiedades\obj\Debug\net8.0\ref\Propiedades.dll
