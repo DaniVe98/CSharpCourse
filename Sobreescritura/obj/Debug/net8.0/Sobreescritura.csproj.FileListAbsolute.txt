@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\Sobreescritura\bin\Debug\net8.0\Sobreescritura.exe
+C:\bravoauto\Variables\Sobreescritura\bin\Debug\net8.0\Sobreescritura.deps.json
+C:\bravoauto\Variables\Sobreescritura\bin\Debug\net8.0\Sobreescritura.runtimeconfig.json
+C:\bravoauto\Variables\Sobreescritura\bin\Debug\net8.0\Sobreescritura.dll
+C:\bravoauto\Variables\Sobreescritura\bin\Debug\net8.0\Sobreescritura.pdb
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\Sobreescritura.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\Sobreescritura.AssemblyInfo.cs
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\Sobreescritura.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\Sobreescritura.dll
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\refint\Sobreescritura.dll
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\Sobreescritura.pdb
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\Sobreescritura.genruntimeconfig.cache
+C:\bravoauto\Variables\Sobreescritura\obj\Debug\net8.0\ref\Sobreescritura.dll
