@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\Json\bin\Debug\net8.0\Json.exe
+C:\bravoauto\Variables\Json\bin\Debug\net8.0\Json.deps.json
+C:\bravoauto\Variables\Json\bin\Debug\net8.0\Json.runtimeconfig.json
+C:\bravoauto\Variables\Json\bin\Debug\net8.0\Json.dll
+C:\bravoauto\Variables\Json\bin\Debug\net8.0\Json.pdb
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\Json.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\Json.AssemblyInfo.cs
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\Json.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\Json.dll
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\refint\Json.dll
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\Json.pdb
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\Json.genruntimeconfig.cache
+C:\bravoauto\Variables\Json\obj\Debug\net8.0\ref\Json.dll
