@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ListCommonMethods.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ListCommonMethods.AssemblyInfo.cs
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ListCommonMethods.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\ListCommonMethods\bin\Debug\net8.0\ListCommonMethods.exe
+C:\bravoauto\Variables\ListCommonMethods\bin\Debug\net8.0\ListCommonMethods.deps.json
+C:\bravoauto\Variables\ListCommonMethods\bin\Debug\net8.0\ListCommonMethods.runtimeconfig.json
+C:\bravoauto\Variables\ListCommonMethods\bin\Debug\net8.0\ListCommonMethods.dll
+C:\bravoauto\Variables\ListCommonMethods\bin\Debug\net8.0\ListCommonMethods.pdb
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ListCommonMethods.dll
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\refint\ListCommonMethods.dll
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ListCommonMethods.pdb
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ListCommonMethods.genruntimeconfig.cache
+C:\bravoauto\Variables\ListCommonMethods\obj\Debug\net8.0\ref\ListCommonMethods.dll
