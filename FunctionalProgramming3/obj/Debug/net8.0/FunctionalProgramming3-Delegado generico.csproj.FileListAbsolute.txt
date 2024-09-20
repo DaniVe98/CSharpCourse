@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\FunctionalProgramming3\bin\Debug\net8.0\FunctionalProgramming3-Delegado generico.exe
+C:\bravoauto\Variables\FunctionalProgramming3\bin\Debug\net8.0\FunctionalProgramming3-Delegado generico.deps.json
+C:\bravoauto\Variables\FunctionalProgramming3\bin\Debug\net8.0\FunctionalProgramming3-Delegado generico.runtimeconfig.json
+C:\bravoauto\Variables\FunctionalProgramming3\bin\Debug\net8.0\FunctionalProgramming3-Delegado generico.dll
+C:\bravoauto\Variables\FunctionalProgramming3\bin\Debug\net8.0\FunctionalProgramming3-Delegado generico.pdb
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\FunctionalProgramming3-Delegado generico.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\FunctionalProgramming3-Delegado generico.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\FunctionalProgramming3-Delegado generico.AssemblyInfo.cs
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\FunctionalProgramming3-Delegado generico.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\FunctionalProgramming3-Delegado generico.dll
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\refint\FunctionalProgramming3-Delegado generico.dll
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\FunctionalProgramming3-Delegado generico.pdb
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\FunctionalProgramming3-Delegado generico.genruntimeconfig.cache
+C:\bravoauto\Variables\FunctionalProgramming3\obj\Debug\net8.0\ref\FunctionalProgramming3-Delegado generico.dll
