@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\bin\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.exe
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\bin\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.deps.json
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\bin\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.runtimeconfig.json
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\bin\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.dll
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\bin\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.pdb
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.AssemblyInfo.cs
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.dll
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\refint\FunctionalProgramming6-Delegado Gen. Predicate.dll
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.pdb
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\FunctionalProgramming6-Delegado Gen. Predicate.genruntimeconfig.cache
+C:\bravoauto\Variables\FunctionalProgramming6-Delegado Gen. Predicate\obj\Debug\net8.0\ref\FunctionalProgramming6-Delegado Gen. Predicate.dll
