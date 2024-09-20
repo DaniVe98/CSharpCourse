@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\TipoDeDatos.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\TipoDeDatos.AssemblyInfo.cs
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\TipoDeDatos\bin\Debug\net8.0\TipoDeDatos.exe
+C:\bravoauto\Variables\TipoDeDatos\bin\Debug\net8.0\TipoDeDatos.deps.json
+C:\bravoauto\Variables\TipoDeDatos\bin\Debug\net8.0\TipoDeDatos.runtimeconfig.json
+C:\bravoauto\Variables\TipoDeDatos\bin\Debug\net8.0\TipoDeDatos.dll
+C:\bravoauto\Variables\TipoDeDatos\bin\Debug\net8.0\TipoDeDatos.pdb
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\TipoDeDatos.dll
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\refint\TipoDeDatos.dll
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\TipoDeDatos.pdb
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\TipoDeDatos.genruntimeconfig.cache
+C:\bravoauto\Variables\TipoDeDatos\obj\Debug\net8.0\ref\TipoDeDatos.dll
