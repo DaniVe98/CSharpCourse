@@ -1,0 +1,14 @@
+C:\bravoauto\Variables\Excepciones\bin\Debug\net8.0\Excepciones.exe
+C:\bravoauto\Variables\Excepciones\bin\Debug\net8.0\Excepciones.deps.json
+C:\bravoauto\Variables\Excepciones\bin\Debug\net8.0\Excepciones.runtimeconfig.json
+C:\bravoauto\Variables\Excepciones\bin\Debug\net8.0\Excepciones.dll
+C:\bravoauto\Variables\Excepciones\bin\Debug\net8.0\Excepciones.pdb
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfoInputs.cache
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\Excepciones.AssemblyInfo.cs
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\Excepciones.dll
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\refint\Excepciones.dll
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\Excepciones.pdb
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\Excepciones.genruntimeconfig.cache
+C:\bravoauto\Variables\Excepciones\obj\Debug\net8.0\ref\Excepciones.dll
